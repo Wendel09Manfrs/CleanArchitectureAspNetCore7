@@ -1,0 +1,15 @@
+C:\Users\Wendel\source\repos\CleanArchit\CleanArchit.Application\bin\Debug\net7.0\CleanArchit.Application.deps.json
+C:\Users\Wendel\source\repos\CleanArchit\CleanArchit.Application\bin\Debug\net7.0\CleanArchit.Application.dll
+C:\Users\Wendel\source\repos\CleanArchit\CleanArchit.Application\bin\Debug\net7.0\CleanArchit.Application.pdb
+C:\Users\Wendel\source\repos\CleanArchit\CleanArchit.Application\bin\Debug\net7.0\CleanArchit.Domain.dll
+C:\Users\Wendel\source\repos\CleanArchit\CleanArchit.Application\bin\Debug\net7.0\CleanArchit.Domain.pdb
+C:\Users\Wendel\source\repos\CleanArchit\CleanArchit.Application\obj\Debug\net7.0\CleanArchit.Application.csproj.AssemblyReference.cache
+C:\Users\Wendel\source\repos\CleanArchit\CleanArchit.Application\obj\Debug\net7.0\CleanArchit.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wendel\source\repos\CleanArchit\CleanArchit.Application\obj\Debug\net7.0\CleanArchit.Application.AssemblyInfoInputs.cache
+C:\Users\Wendel\source\repos\CleanArchit\CleanArchit.Application\obj\Debug\net7.0\CleanArchit.Application.AssemblyInfo.cs
+C:\Users\Wendel\source\repos\CleanArchit\CleanArchit.Application\obj\Debug\net7.0\CleanArchit.Application.csproj.CoreCompileInputs.cache
+C:\Users\Wendel\source\repos\CleanArchit\CleanArchit.Application\obj\Debug\net7.0\CleanArc.4BC1864C.Up2Date
+C:\Users\Wendel\source\repos\CleanArchit\CleanArchit.Application\obj\Debug\net7.0\CleanArchit.Application.dll
+C:\Users\Wendel\source\repos\CleanArchit\CleanArchit.Application\obj\Debug\net7.0\refint\CleanArchit.Application.dll
+C:\Users\Wendel\source\repos\CleanArchit\CleanArchit.Application\obj\Debug\net7.0\CleanArchit.Application.pdb
+C:\Users\Wendel\source\repos\CleanArchit\CleanArchit.Application\obj\Debug\net7.0\ref\CleanArchit.Application.dll

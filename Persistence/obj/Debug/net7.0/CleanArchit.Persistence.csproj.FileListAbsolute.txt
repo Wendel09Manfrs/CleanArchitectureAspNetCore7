@@ -1,0 +1,17 @@
+C:\Users\Wendel\source\repos\CleanArchit\Persistence\bin\Debug\net7.0\CleanArchit.Persistence.deps.json
+C:\Users\Wendel\source\repos\CleanArchit\Persistence\bin\Debug\net7.0\CleanArchit.Persistence.dll
+C:\Users\Wendel\source\repos\CleanArchit\Persistence\bin\Debug\net7.0\CleanArchit.Persistence.pdb
+C:\Users\Wendel\source\repos\CleanArchit\Persistence\bin\Debug\net7.0\CleanArchit.Application.dll
+C:\Users\Wendel\source\repos\CleanArchit\Persistence\bin\Debug\net7.0\CleanArchit.Domain.dll
+C:\Users\Wendel\source\repos\CleanArchit\Persistence\bin\Debug\net7.0\CleanArchit.Application.pdb
+C:\Users\Wendel\source\repos\CleanArchit\Persistence\bin\Debug\net7.0\CleanArchit.Domain.pdb
+C:\Users\Wendel\source\repos\CleanArchit\Persistence\obj\Debug\net7.0\CleanArchit.Persistence.csproj.AssemblyReference.cache
+C:\Users\Wendel\source\repos\CleanArchit\Persistence\obj\Debug\net7.0\CleanArchit.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wendel\source\repos\CleanArchit\Persistence\obj\Debug\net7.0\CleanArchit.Persistence.AssemblyInfoInputs.cache
+C:\Users\Wendel\source\repos\CleanArchit\Persistence\obj\Debug\net7.0\CleanArchit.Persistence.AssemblyInfo.cs
+C:\Users\Wendel\source\repos\CleanArchit\Persistence\obj\Debug\net7.0\CleanArchit.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Wendel\source\repos\CleanArchit\Persistence\obj\Debug\net7.0\CleanArc.9D72AD3F.Up2Date
+C:\Users\Wendel\source\repos\CleanArchit\Persistence\obj\Debug\net7.0\CleanArchit.Persistence.dll
+C:\Users\Wendel\source\repos\CleanArchit\Persistence\obj\Debug\net7.0\refint\CleanArchit.Persistence.dll
+C:\Users\Wendel\source\repos\CleanArchit\Persistence\obj\Debug\net7.0\CleanArchit.Persistence.pdb
+C:\Users\Wendel\source\repos\CleanArchit\Persistence\obj\Debug\net7.0\ref\CleanArchit.Persistence.dll

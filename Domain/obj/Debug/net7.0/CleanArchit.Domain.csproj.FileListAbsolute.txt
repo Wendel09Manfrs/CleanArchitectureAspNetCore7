@@ -1,0 +1,11 @@
+C:\Users\Wendel\source\repos\CleanArchit\Domain\bin\Debug\net7.0\CleanArchit.Domain.deps.json
+C:\Users\Wendel\source\repos\CleanArchit\Domain\bin\Debug\net7.0\CleanArchit.Domain.dll
+C:\Users\Wendel\source\repos\CleanArchit\Domain\bin\Debug\net7.0\CleanArchit.Domain.pdb
+C:\Users\Wendel\source\repos\CleanArchit\Domain\obj\Debug\net7.0\CleanArchit.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wendel\source\repos\CleanArchit\Domain\obj\Debug\net7.0\CleanArchit.Domain.AssemblyInfoInputs.cache
+C:\Users\Wendel\source\repos\CleanArchit\Domain\obj\Debug\net7.0\CleanArchit.Domain.AssemblyInfo.cs
+C:\Users\Wendel\source\repos\CleanArchit\Domain\obj\Debug\net7.0\CleanArchit.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Wendel\source\repos\CleanArchit\Domain\obj\Debug\net7.0\CleanArchit.Domain.dll
+C:\Users\Wendel\source\repos\CleanArchit\Domain\obj\Debug\net7.0\refint\CleanArchit.Domain.dll
+C:\Users\Wendel\source\repos\CleanArchit\Domain\obj\Debug\net7.0\CleanArchit.Domain.pdb
+C:\Users\Wendel\source\repos\CleanArchit\Domain\obj\Debug\net7.0\ref\CleanArchit.Domain.dll
